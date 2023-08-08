@@ -243,6 +243,12 @@
     text-decoration: none;
 }
 
+.rin-article-title_h {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+}
+
 .rin-article-content {
     padding-top: 10px;
     color: white;
