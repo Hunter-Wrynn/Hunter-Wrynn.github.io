@@ -34,7 +34,8 @@ I am a senior student at College of Computer Science and Technology, Zhejiang Un
 
 [Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs](https://github.com/Hunter-Wrynn/RLDF)
 
-Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang Zhang
+Ruoxi Cheng†, **Haoxuan Ma†**, Shuirong Cao†, Jiaqi Li, Aihua Pei, Zhiqiang Wang‡, Pengliang Ji, Haoyu Wang, Jiaqi Huo​​
+(† Equal contribution,)
 
 [**Project Page**](https://github.com/Hunter-Wrynn/RLDF) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
 - we propose Reinforcement Learning from Multi-role Debates as Feedback (RLDF), a novel approach for bias mitigation
@@ -57,8 +58,8 @@ in bias mitigation.
 
 [Lever LM: Configuring In-Context Sequence to Lever Large Vision Language Models](https://github.com/ForJadeForest/Lever-LM)
 
-Ruoxi Cheng†, **Haoxuan Ma†**, Shuirong Cao†, Jiaqi Li, Aihua Pei, Zhiqiang Wang‡, Pengliang Ji, Haoyu Wang, Jiaqi Huo​​
-(† Equal contribution,)
+Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang Zhang
+
 
 [**Project Page**](https://github.com/ForJadeForest/Lever-LM) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
 - We propose to use a tiny Language Model (LM), e.g., a Transformer with 67M parameters, to lever much larger Vision-Language Models (LVLMs) with 9B parameters. Specifically, we use this tiny Lever-LM to configure effective in-context demonstration (ICD) sequences to improve the In-Context Learinng (ICL) performance of LVLMs
