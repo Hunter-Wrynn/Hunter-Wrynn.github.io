@@ -74,6 +74,19 @@ Ruoxi Cheng†, **Haoxuan Ma†**, Weixin Wang†, Zhiqiang Wang, Xiaoshuang Jia
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fmla.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fine-grained Masked-image Language Alignment](https://hunter-wrynn.github.io/)
+
+YiCheng Xiao†, Yu Chen†, **Haoxuan Ma†**, Jiale Hong†, Caorui Li, Lingxiang Wu, Zheng Wang, Kuan Zhu, Haiyun Guo, Jinqiao Wang († equal contribution)
+
+[**Project Page**](https://hunter-wrynn.github.io/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
+- We propose Fine-grained Masked-image Language Alignment (FMLA), a novel fine-tuning approach that utilizes the local semantic alignment between masks and complex long texts. Our FMLA model can effectively represent images at any granularity (whether local or global) while leveraging the LLM to process complex long texts. This makes it the first model capable of simultaneously meeting demands for local visual prompts input and long text input, consequently overcomes the granularity limitations in both the visual and textual domains.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/segbins.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
