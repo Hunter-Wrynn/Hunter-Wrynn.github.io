@@ -30,6 +30,19 @@ I am a senior student at College of Computer Science and Technology, Zhejiang Un
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2024</div><img src='images/leverlm.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Lever LM: Configuring In-Context Sequence to Lever Large Vision Language Models](https://github.com/ForJadeForest/Lever-LM)
+
+Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang Zhang
+
+[**Project Page**](https://github.com/ForJadeForest/Lever-LM) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
+- , we propose to use a tiny Language Model (LM), e.g., a Transformer with 67M parameters, to lever much larger Vision-Language Models (LVLMs) with 9B parameters. Specifically, we use this tiny Lever-LM to configure effective in-context demonstration (ICD) sequences to improve the In-Context Learinng (ICL) performance of LVLMs
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/segbins.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
