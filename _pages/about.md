@@ -22,9 +22,9 @@ I am a senior student at College of Computer Science and Technology, Southeast U
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉🎉 I win the **President Scholarship（1%）**!
-- *2024.08*: &nbsp;🎉🎉🎉 One paper is accepted by AAAI 2024 Alignment Workshop! 
-- *2024.07*: &nbsp;🎉🎉🎉 One paper is accepted by NeurIPS 2024! 
+- *2024.11*: &nbsp;🎉🎉 I win the **President Scholarship（1%）**!
+- *2024.08*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 Alignment Workshop! 
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024! 
 - *2023.07*: &nbsp;🎉🎉 I won a silver medal on Kaggle!
   
 # 📝 Publications 
@@ -105,7 +105,7 @@ Yicheng Xiao†, **Haoxuan Ma†**, Zhenhao Shen, Jinfei Qi, RuiFeng Xie, Zixian
 
 # 🎖 Honors and Awards
 - *2024.11* President's Scholarship (top 1%) in Southeast University
-- *2023.11* Zhishan Elite Scholarship in Southeast University
+- *2023.11* Zhishan Scholarship in Southeast University
 - *2023.09* Suzhou Industrial Scholarship in Southeast University
 - *2023.06* Merit Student in Southeast University.
 - *2022.11* Zhishan Scholarship in Southeast University
