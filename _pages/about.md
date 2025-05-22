@@ -42,13 +42,7 @@ Ruoxi Cheng†, **Haoxuan Ma†**, Shuirong Cao†, Jiaqi Li, Aihua Pei, Zhiqian
 replacing human feedback in traditional RLHF. We utilize
 LLMs in multi-role debates to create a dataset that includes
 both high-bias and low-bias instances for training the reward
-model in reinforcement learning. Our approach comprises two
-modes: (1) self-reflection, where the same LLM participates
-in multi-role debates, and (2) teacher-student, where a more
-advanced LLM like GPT-3.5-turbo guides the LLM to perform
-this task. Experimental results across different LLMs on BBQ
-and our datasets demonstrate the effectiveness of our approach
-in bias mitigation.
+model in reinforcement learning.
 </div>
 </div>
 
