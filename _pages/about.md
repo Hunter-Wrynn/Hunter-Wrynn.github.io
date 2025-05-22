@@ -60,6 +60,19 @@ Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/drirl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment](https://hunter-wrynn.github.io/)
+
+Ruoxi Cheng†, **Haoxuan Ma†**, Weixin Wang†, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia († Equal contribution)
+
+[**Project Page**](https://hunter-wrynn.github.io/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
+- we propose DR-IRL, which Dynamically adjusts Rewards through Inverse Reinforcement Learning. We first construct a balanced safety dataset of seven harmful categories using Chain-of-Draft (CoD) template prompts. Then we train category - specific reward models using this dataset as demonstration via IRL. Finally, we propose GRPO-S, Group Relative Policy Optimization-Scaling, a variant of GRPO that scales the reward in optimization to tast difficulty—data-level hardness by CLIP similarity, model-level responsiveness by reward gaps.
+
+</div>
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/segbins.png' alt="sym" width="100%"></div></div>
