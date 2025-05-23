@@ -29,7 +29,7 @@ I am a senior student at College of Computer Science and Technology, Southeast U
   
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024 workshop</div><img src='images/leverlm.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024 workshop</div><img src='images/rldf.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs](https://github.com/Hunter-Wrynn/RLDF)
