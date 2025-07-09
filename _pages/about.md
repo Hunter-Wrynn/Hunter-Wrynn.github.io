@@ -104,7 +104,8 @@ Yicheng Xiao†, **Haoxuan Ma†**, Zhenhao Shen, Jinfei Qi, RuiFeng Xie, Zixian
 
 
 # 🎖 Honors and Awards
-- *2024.11* President's Scholarship (top 1%) in Southeast University
+- *2025.06* Excellent Undergraduate Thesis Award in Southeast University 
+- *2024.11* President Scholarship (top 1%) in Southeast University
 - *2023.11* Zhishan Scholarship in Southeast University
 - *2023.09* Suzhou Industrial Scholarship in Southeast University
 - *2023.06* Merit Student in Southeast University.
