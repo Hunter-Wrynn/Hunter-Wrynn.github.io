@@ -138,7 +138,7 @@ Yicheng Xiao†, **Haoxuan Ma†**, Zhenhao Shen, Jinfei Qi, RuiFeng Xie, Zixian
 <body>
 
     <div class="map-container">
-        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=dfUoSc6uP1vWgs2fZpQ0rXTSEA-jke2-e2F1P09mahk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+        <script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?d=Jc82Y6nDVcUYKMyNQ1-mgD5LK8xc-Os-55ru7IoVFqY&cl=ffffff&w=a'></script>
     </div>
 </body>
 </html>
