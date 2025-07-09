@@ -113,7 +113,8 @@ Yicheng Xiao†, **Haoxuan Ma†**, Zhenhao Shen, Jinfei Qi, RuiFeng Xie, Zixian
 
 
 # 📖 Educations
-- *2021.08 - 2025.05 (now)*, Southeast University, College of Computer Science and Technology.
+- *2021.08 - 2025.06 *, Southeast University, College of Computer Science and Technology.
+- *2025.09 - 2028.06 *, Nanjing University, College of Artificial Intelligence.
  
 # 💻 Internships
-- *2024.07 - 2025.03*, [Shanghai AI Lab](https://www.shlab.org.cn/), China.
+- *2024.07 - 2025.03*, [Shanghai AI Lab](https://www.shlab.org.cn/), Embodied AI.
