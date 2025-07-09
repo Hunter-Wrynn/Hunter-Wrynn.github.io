@@ -119,3 +119,26 @@ Yicheng Xiao†, **Haoxuan Ma†**, Zhenhao Shen, Jinfei Qi, RuiFeng Xie, Zixian
  
 # 💻 Internships
 - *2024.07 - 2025.03*, [Shanghai AI Lab](https://www.shlab.org.cn/), Embodied AI.
+
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ClustrMaps Globe</title>
+    <style>
+        .map-container {
+            width: 25vw; /* 让地图宽度占屏幕 20% */
+            margin: 0 auto; /* 水平居中 */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="map-container">
+        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=dfUoSc6uP1vWgs2fZpQ0rXTSEA-jke2-e2F1P09mahk&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+    </div>
+</body>
+</html>
