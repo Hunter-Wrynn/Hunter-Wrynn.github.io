@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior student at College of Computer Science and Technology, Southeast University, majoring in Artificial Intelligence, and will graduate from Southeast University with a B.S. in Engineering in 2025! During my undergraduate studies, I was fortunate to be advised by Prof. <a href='https://yangxuntu.github.io/'>Xu Yang</a> and co-work with  <a href='https://github.com/StuHude'>Yicheng Xiao</a> and <a href='https://scholar.google.com/citations?user=smUBVOQAAAAJ&hl=zh-CN'>Ruoxi Cheng.
-
-Additionally, I am an incoming Master student at <a href='https://www.lamda.nju.edu.cn/CH.MainPage.ashx'>LAMDA</a>@Nanjing University, advised by Prof. <a href='https://www.lamda.nju.edu.cn/yehj/'>Hanjia Ye</a>.
+I am a senior student at College of Computer Science and Technology, Southeast University, majoring in Artificial Intelligence, and will graduate from Southeast University with a B.S. in Engineering in 2025! During my undergraduate studies, I was fortunate to be advised by Prof. <a href='https://yangxuntu.github.io/'>Xu Yang</a> and co-work with  <a href='https://github.com/StuHude'>Yicheng Xiao</a> and <a href='https://scholar.google.com/citations?user=smUBVOQAAAAJ&hl=zh-CN'>Ruoxi Cheng. Additionally, I am an incoming Master student at <a href='https://www.lamda.nju.edu.cn/CH.MainPage.ashx'>LAMDA</a>@Nanjing University, advised by Prof. <a href='https://www.lamda.nju.edu.cn/yehj/'>Hanjia Ye</a>.
 
 
 <!--
