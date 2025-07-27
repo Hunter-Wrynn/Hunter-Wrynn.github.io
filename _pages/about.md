@@ -17,16 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior student at College of Computer Science and Technology, Southeast University, majoring in Artificial Intelligence, and will graduate from Southeast University with a B.S. in Engineering in 2025! During my undergraduate studies, I was fortunate to be advised by Prof. <a href='https://yangxuntu.github.io/'>Xu Yang</a>. Additionally, I am an incoming Master student at <a href='https://www.lamda.nju.edu.cn/CH.MainPage.ashx'>LAMDA</a>@Nanjing University, advised by Prof. <a href='https://www.lamda.nju.edu.cn/yehj/'>Hanjia Ye</a>.
+I am a senior student at College of Computer Science and Technology, Southeast University, majoring in Artificial Intelligence, and will graduate from Southeast University with a B.S. in Engineering in 2025! During my undergraduate studies, I was fortunate to be advised by Prof. <a href='https://yangxuntu.github.io/'>Xu Yang</a> and co-worked with  <a href='https://github.com/StuHude'>Yicheng Xiao</a> and <a href='https://scholar.google.com/citations?user=smUBVOQAAAAJ&hl=zh-CN'>Ruoxi Cheng.
+
+Additionally, I am an incoming Master student at <a href='https://www.lamda.nju.edu.cn/CH.MainPage.ashx'>LAMDA</a>@Nanjing University, advised by Prof. <a href='https://www.lamda.nju.edu.cn/yehj/'>Hanjia Ye</a>.
 
 
-
+<!--
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I win the **President Scholarship（1%）**!
 - *2024.08*: &nbsp;🎉🎉 One paper is accepted by AAAI 2024 Alignment Workshop! 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by NeurIPS 2024! 
 - *2023.07*: &nbsp;🎉🎉 I won a silver medal on Kaggle!
-  
+
+ -->
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024 workshop</div><img src='images/rldf.jpg' alt="sym" width="100%"></div></div>
@@ -62,6 +66,8 @@ Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/drirl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+<!--
 
 [Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment](https://hunter-wrynn.github.io/)
 
@@ -101,16 +107,16 @@ Yicheng Xiao†, **Haoxuan Ma†**, Zhenhao Shen, Jinfei Qi, RuiFeng Xie, Zixian
 </div>
 </div>
 
-
+ -->
 
 # 🎖 Honors and Awards
-- *2025.06* Excellent Undergraduate Thesis Award in Southeast University 
-- *2024.11* President Scholarship (top 1%) in Southeast University
-- *2023.11* Zhishan Scholarship in Southeast University
-- *2023.09* Suzhou Industrial Scholarship in Southeast University
-- *2023.06* Merit Student in Southeast University.
-- *2022.11* Zhishan Scholarship in Southeast University
-- *2022.09* Lenovo Research Institute Scholarship in Southeast University
+- *2025.06* Excellent Undergraduate Thesis Award in Southeast University (东南大学优秀毕业论文)
+- *2024.11* President Scholarship (top 1%) in Southeast University, $8,000 CNY (校长奖学金)
+- *2023.11* Zhishan Scholarship in Southeast University, $3,000 CNY (至善学子奖学金)
+- *2023.09* Suzhou Industrial Scholarship in Southeast University, $5,000 CNY (苏州工业园区奖学金)
+- *2023.06* Merit Student in Southeast University (东南大学三好学生)
+- *2022.11* Zhishan Scholarship in Southeast University, $3,000 CNY (至善学子奖学金)
+- *2022.09* Lenovo Research Institute Scholarship in Southeast University, $5,000 CNY (联想研究院奖学金)
 
 
 # 📖 Educations
@@ -118,7 +124,8 @@ Yicheng Xiao†, **Haoxuan Ma†**, Zhenhao Shen, Jinfei Qi, RuiFeng Xie, Zixian
 - *2025.09 - 2028.06 *, Nanjing University, College of Artificial Intelligence.
  
 # 💻 Internships
-- *2024.07 - 2025.03*, [Shanghai AI Lab](https://www.shlab.org.cn/), Embodied AI.
+- [Shanghai AI Lab], Trajectory prediction and policy learning in Embodied AI.
+- [Huawei ICT], Conducted pretraining and post-training of LLMs.
 
 <html lang="zh">
 <head>
