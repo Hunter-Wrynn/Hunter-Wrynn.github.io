@@ -64,7 +64,6 @@ Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang 
 
 
 <!--
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/drirl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
