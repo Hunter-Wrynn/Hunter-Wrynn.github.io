@@ -62,6 +62,8 @@ Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang 
 </div>
 </div>
 
+
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/drirl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -104,7 +106,8 @@ Yicheng Xiao†, **Haoxuan Ma†**, Zhenhao Shen, Jinfei Qi, RuiFeng Xie, Zixian
 </div>
 </div>
 
-
+ -->
+ 
 # 🎖 Honors and Awards
 - *2025.06* Excellent Undergraduate Thesis Award in Southeast University (东南大学优秀毕业论文)
 - *2024.11* President Scholarship (top 1%) in Southeast University, $8,000 CNY (校长奖学金)
