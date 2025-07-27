@@ -62,51 +62,6 @@ Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang 
 </div>
 </div>
 
-
-<!--
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/drirl.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[Inverse Reinforcement Learning with Dynamic Reward Scaling for LLM Alignment](https://hunter-wrynn.github.io/)
-
-Ruoxi Cheng†, **Haoxuan Ma†**, Weixin Wang†, Zhiqiang Wang, Xiaoshuang Jia, Simeng Qin, Xiaochun Cao, Yang Liu, Xiaojun Jia († Equal contribution)
-
-[**Project Page**](https://hunter-wrynn.github.io/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
-- we propose DR-IRL, which Dynamically adjusts Rewards through Inverse Reinforcement Learning. We first construct a balanced safety dataset of seven harmful categories using Chain-of-Draft (CoD) template prompts. Then we train category - specific reward models using this dataset as demonstration via IRL. Finally, we propose GRPO-S, Group Relative Policy Optimization-Scaling, a variant of GRPO that scales the reward in optimization to tast difficulty—data-level hardness by CLIP similarity, model-level responsiveness by reward gaps.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/fmla.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Fine-grained Masked-image Language Alignment](https://hunter-wrynn.github.io/)
-
-YiCheng Xiao†, Yu Chen†, **Haoxuan Ma†**, Jiale Hong†, Caorui Li, Lingxiang Wu, Zheng Wang, Kuan Zhu, Haiyun Guo, Jinqiao Wang († equal contribution)
-
-[**Project Page**](https://hunter-wrynn.github.io/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
-- We propose Fine-grained Masked-image Language Alignment (FMLA), a novel fine-tuning approach that utilizes the local semantic alignment between masks and complex long texts. Our FMLA model can effectively represent images at any granularity (whether local or global) while leveraging the LLM to process complex long texts. This makes it the first model capable of simultaneously meeting demands for local visual prompts input and long text input, consequently overcomes the granularity limitations in both the visual and textual domains.
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/segbins.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SegBins: Self-Supervised Monocular Depth Estimation Based On Depth Bins And Semantic Segmentation](https://hunter-wrynn.github.io/)
-
-Yicheng Xiao†, **Haoxuan Ma†**, Zhenhao Shen, Jinfei Qi, RuiFeng Xie, Zixiang Zhang, Haoxiao Wang, Weijie Wang, Peilin Sun, Jiale Hong, Jingyang Fan, Xiaolin Fang, Haiyun Guo, Jinqiao Wang († equal contribution)
-
-[**Project Page**](https://hunter-wrynn.github.io/) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
-- We propose a new self-supervised monocular depth estimation framework, which innovatively proposes that the framework enhances spatial interaction information and applies multi-layer feature fusion information to extract potential geometric priors of scenes in images, and finally classifies them into multiple depth bin to obtain probabilities, which are combined to form depth. 
-
-</div>
-</div>
--->
  
 # 🎖 Honors and Awards
 - *2025.06* Excellent Undergraduate Thesis Award in Southeast University (东南大学优秀毕业论文)
