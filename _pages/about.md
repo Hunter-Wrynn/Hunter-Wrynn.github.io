@@ -100,7 +100,7 @@ Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang 
 <body>
 
     <div class="map-container">
-        <script type='text/javascript' id='clustrmaps' src='//clustrmaps.com/map_v2.js?d=Jc82Y6nDVcUYKMyNQ1-mgD5LK8xc-Os-55ru7IoVFqY&cl=ffffff&w=a'></script>
+        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=300&t=tt&d=Jc82Y6nDVcUYKMyNQ1-mgD5LK8xc-Os-55ru7IoVFqY&co=b3b3b3&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
     </div>
 </body>
 </html>
