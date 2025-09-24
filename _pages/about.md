@@ -22,7 +22,7 @@ I am presently pursuing my graduate studies at  <a href='https://www.lamda.nju.e
 
 I received my B.Sc. degree in Artificial Intelligence from Southeast University，I was advised by Prof. <a href='https://yangxuntu.github.io/'>Xu Yang</a> and co-worked with <a href='https://scholar.google.com/citations?user=smUBVOQAAAAJ&hl=zh-CN'>Ruoxi Cheng</a>.
 
-Currently, I focus on Model Reuse ,Agentic RL and LLM4Rec.
+Currently, I focus on Model Reuse, Agentic RL and LLM4Rec.
 
 
 <!--
