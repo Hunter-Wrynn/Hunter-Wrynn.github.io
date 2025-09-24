@@ -70,16 +70,9 @@ Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang 
 
  
 # 🎖 Honors and Awards
-
 - *2024.11* President Scholarship (top 1%) in Southeast University, $8,000 CNY (校长奖学金)
-<!--
-- *2025.06* Excellent Undergraduate Thesis Award in Southeast University (东南大学优秀毕业论文)
-- *2023.11* Zhishan Scholarship in Southeast University, $3,000 CNY (至善学子奖学金)
-- *2023.09* Suzhou Industrial Scholarship in Southeast University, $5,000 CNY (苏州工业园区奖学金)
-- *2023.06* Merit Student in Southeast University (东南大学三好学生)
-- *2022.11* Zhishan Scholarship in Southeast University, $3,000 CNY (至善学子奖学金)
-- *2022.09* Lenovo Research Institute Scholarship in Southeast University, $5,000 CNY (联想研究院奖学金)
- -->
+
+
  
 # 📖 Educations
 - *2021.08 - 2025.06 *, Southeast University, College of Computer Science and Technology.
