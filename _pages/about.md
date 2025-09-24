@@ -19,7 +19,7 @@ redirect_from:
 
 I am presently pursuing my graduate studies at  <a href='https://www.lamda.nju.edu.cn/CH.MainPage.ashx'>LAMDA</a>@Nanjing University, advised by Prof. <a href='https://www.lamda.nju.edu.cn/yehj/'>Hanjia Ye</a>.
 
-Currently, I focus on Model Reuse, Agentic RL and LLM4Rec.
+Currently, I focus on Model Reuse and Agentic RL. I am also interested in LLMs for recommending systems and quantitative trading.
 
 For collaboration and inquiries, contact: hunterwrynn@gmail.com
 
