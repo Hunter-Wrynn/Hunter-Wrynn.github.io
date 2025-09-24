@@ -19,11 +19,9 @@ redirect_from:
 
 I am presently pursuing my graduate studies at  <a href='https://www.lamda.nju.edu.cn/CH.MainPage.ashx'>LAMDA</a>@Nanjing University, advised by Prof. <a href='https://www.lamda.nju.edu.cn/yehj/'>Hanjia Ye</a>.
 
-
-I received my B.Sc. degree in Artificial Intelligence from Southeast University，I was advised by Prof. <a href='https://yangxuntu.github.io/'>Xu Yang</a> and co-worked with <a href='https://scholar.google.com/citations?user=smUBVOQAAAAJ&hl=zh-CN'>Ruoxi Cheng</a>.
-
 Currently, I focus on Model Reuse, Agentic RL and LLM4Rec.
 
+Collaborate and contact with: hunterwrynn@gmail.com
 
 <!--
 # 🔥 News
@@ -70,7 +68,7 @@ Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang 
 
  
 # 🎖 Honors and Awards
-- *2024.11* President Scholarship (top 1%) in Southeast University, $8,000 CNY (校长奖学金)
+- *2024.11* President Scholarship (top 1%) in Southeast University
 
 
  
