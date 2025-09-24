@@ -21,7 +21,7 @@ I am presently pursuing my graduate studies at  <a href='https://www.lamda.nju.e
 
 Currently, I focus on Model Reuse, Agentic RL and LLM4Rec.
 
-Collaborate and contact with: hunterwrynn@gmail.com
+For collaboration and inquiries, contact: hunterwrynn@gmail.com
 
 <!--
 # 🔥 News
