@@ -72,7 +72,6 @@ Xu Yang, Yingzhe Peng, **Haoxuan Ma**, Shuo Xu, Chi Zhang, Yucheng Han, Hanwang 
 # 🎖 Honors and Awards
 
 - *2024.11* President Scholarship (top 1%) in Southeast University, $8,000 CNY (校长奖学金)
-- 
 <!--
 - *2025.06* Excellent Undergraduate Thesis Award in Southeast University (东南大学优秀毕业论文)
 - *2023.11* Zhishan Scholarship in Southeast University, $3,000 CNY (至善学子奖学金)
