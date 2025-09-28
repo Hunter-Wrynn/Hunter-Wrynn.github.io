@@ -21,7 +21,7 @@ I am presently pursuing my graduate studies at  <a href='https://www.lamda.nju.e
 
 Currently, I focus on Model Reuse and Agentic RL. I am also interested in LLMs for recommending systems and quantitative trading.
 
-For collaboration and inquiries, contact: hunterwrynn@gmail.com
+For collaboration and inquiries, contact: hunterwrynn AT gmail DOT com
 
 <!--
 # 🔥 News
@@ -35,12 +35,12 @@ For collaboration and inquiries, contact: hunterwrynn@gmail.com
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI2024 workshop</div><img src='images/rldf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2024 workshop</div><img src='images/rldf.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reinforcement Learning from Multi-role Debates as Feedback for Bias Mitigation in LLMs](https://github.com/Hunter-Wrynn/RLDF)
 
-Ruoxi Cheng†, **Haoxuan Ma†**, Shuirong Cao†, Jiaqi Li, Aihua Pei, Zhiqiang Wang‡, Pengliang Ji, Haoyu Wang, Jiaqi Huo​​
+Ruoxi Cheng†, **Haoxuan Ma†**, Shuirong Cao†
 († Equal contribution,)
 
 [**Project Page**](https://github.com/Hunter-Wrynn/RLDF) <strong><span class='show_paper_citations' data='Hsxmwr0AAAAJ:'></span></strong>
