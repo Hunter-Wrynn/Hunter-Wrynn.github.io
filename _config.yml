@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Haoxuan Ma \n 马浩轩"
   avatar           : "images/hunter.jpg"
-  bio              : "Southeast University"
+  bio              : "Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Hunter-Wrynn"
+  github           : "Hunter-Wrynn"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/haoxuan-ma-a50bba28a/"
+  linkedin         : "linkedin.com/in/haoxuan-ma-a50bba28a"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
